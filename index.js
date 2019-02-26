@@ -1,3 +1,3 @@
 // Write your code in this file!
 const currentUser = 'Grace Hopper';
-welcomeMessage
+welcomeMessage = "Welcome to Flatbook, "
